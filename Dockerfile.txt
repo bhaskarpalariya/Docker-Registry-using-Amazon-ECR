@@ -1,0 +1,5 @@
+FROM alpine
+
+MAINTAINER "Bhaskar"
+
+CMD ["echo","Hello,welcome to docker with ecr repository"]
